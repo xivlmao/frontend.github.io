@@ -1,0 +1,1 @@
+pleae follow the tutorial details link :- https://www.codeofaninja.com/2018/09/rest-api-authentication-example-php-jwt-tutorial.html
